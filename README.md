@@ -2,9 +2,9 @@
 
 - Calculator
 - Vigenère cipher
-- Snake game
 - Video download
+- Snake game
 - Tic tac toe
-- QR code
 - Rock, Paper, Scissors game
+- QR code
 - Digital watch
